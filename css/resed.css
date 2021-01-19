@@ -1,0 +1,539 @@
+
+@media screen and (max-width: 1200px){
+
+}
+@media screen and (max-width: 992px){
+	
+}
+@media screen and (max-width: 768px){
+	
+	}
+
+@media screen and (max-width: 600px){
+	footer{
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0px;
+	padding-top: 0;
+	height: 700px;
+}
+
+.footer-top{
+	display: block;
+
+		margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 20px;
+
+
+	margin: auto;
+}
+.item h4{
+	margin-top: 0;
+}
+.item button a{
+	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: #008000;
+	color: white;
+	font-size: 15px;
+	font-weight: 300;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 30px;
+	border:none;
+	margin: none;
+	text-shadow: none;
+	border-image: none;
+	text-decoration: none;
+
+}
+.item button a:hover{
+	background-color: #000;
+	color: #fff;
+	opacity: 2;
+}
+
+.showcase{
+	display: flex;
+	margin-top: 150px;
+	width: 100%;
+}
+.showcase .item{
+	flex-basis: 50%;
+}
+
+.banner{
+	width: 98%;
+	margin: auto;
+	
+
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 110px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+
+
+	width: 98%;
+	
+}
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+.hot .logo{
+	width: 98%;
+	margin: auto;
+}
+.logo img{
+	padding-left: 120px;
+	width: 38%;
+	height: 30px;
+	margin: auto;
+}
+
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+
+button{
+	width: 98%;
+	margin: auto;
+}
+.bind{
+	width: 98%;
+	
+}
+
+.bind .aa{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.bind .bb{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.bind .cc{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.aa button{
+	margin-left: 40px;
+	margin-top: 10px;
+	border-radius: 7px 7px 7px 7px;
+}
+.aa button a{
+	background-color: #000;
+	color: #fff;
+	font-size: 17px;
+	padding: 8px;
+	margin-top: 10px;
+	width: 50%;
+	border-radius: 10px 10px 10px 10px;
+	border: none;
+	text-decoration: none;
+}
+
+.col p{
+	width: 98%;
+	margin: auto;
+}
+
+.col input{
+	width: 98%;
+	margin: auto;
+}
+.col h6{
+	width: 98%;
+	margin: auto;
+}
+.rin{
+width: 98%;
+margin: auto;
+}
+.showcase .item{
+	margin: auto;
+	text-align: center;
+}
+}
+
+@media screen and (max-width: 480px){
+.showcase{
+	margin-top: 250px;
+	
+}
+.showcase .item{
+	margin: auto;
+	text-align: center;
+}
+
+.huh{
+		display: block;
+		width: 90%;
+		margin:auto;
+	}
+	.hope h4{
+		font-size: 35px;
+	}
+	footer{
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0px;
+	padding-top: 0;
+	height: 700px;
+}
+.footer-top{
+	display: block;
+
+		margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 20px;
+
+	width: 100%;
+	margin: auto;
+}
+.item h4{
+	margin-top: 0;
+}
+.item button a{
+	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: #008000;
+	color: white;
+	font-size: 15px;
+	font-weight: 300;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 30px;
+	border:none;
+	margin: none;
+	text-shadow: none;
+	border-image: none;
+	text-decoration: none;
+
+}
+.item button a:hover{
+	background-color: #000;
+	color: #fff;
+	opacity: 2;
+}
+
+.logo img{
+	width: 60%;
+	height: 60px;
+}	
+
+.about p{
+	margin-left: 20px;
+	
+	display: block;
+	width: 95%;
+}
+.about h2{
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.banner{
+	width: 100%;
+	margin: auto;
+	
+
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 110px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+
+
+	width: 100%;
+	
+}
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+.hot .logo{
+	width: 98%;
+	margin: auto;
+
+}
+.logo img{
+	padding-left: 60px;
+	
+	height: 30px;
+	margin: auto;
+}
+
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+
+button{
+	width: 98%;
+	margin: auto;
+}
+.bind{
+	width: 98%;
+	
+}
+
+.bind .aa{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.bind .bb{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.bind .cc{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.aa button{
+	margin-left: 40px;
+	margin-top: 10px;
+	border-radius: 7px 7px 7px 7px;
+}
+.aa button a{
+	background-color: #000;
+	color: #fff;
+	font-size: 17px;
+	padding: 8px;
+	margin-top: 10px;
+	width: 50%;
+	border-radius: 10px 10px 10px 10px;
+	border: none;
+	text-decoration: none;
+}
+
+.col p{
+	width: 98%;
+	margin: auto;
+}
+
+.col input{
+	width: 98%;
+	margin: auto;
+}
+.col h6{
+	width: 98%;
+	margin: auto;
+}
+.rin{
+
+}
+
+@media screen and (max-width: 320px){
+	.showcase{
+	margin-top: 300px;
+	margin: auto;
+	text-align: center;
+	vertical-align: middle;
+
+}
+	.huh{
+		display: block;
+		width: 90%;
+		margin:auto;
+	}
+	.hope h4{
+		font-size: 35px;
+	}
+	footer{
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0px;
+	padding-top: 0;
+	height: 700px;
+}
+.showcase .item{
+
+	margin: auto;
+	text-align: center;
+}
+.footer-top{
+	display: block;
+
+		margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 20px;
+
+	width: 100%;
+	margin: auto;
+}
+.item h4{
+	margin-top: 0;
+}
+.item button a{
+	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: #008000;
+	color: white;
+	font-size: 15px;
+	font-weight: 300;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 30px;
+	border:none;
+	margin: none;
+	text-shadow: none;
+	border-image: none;
+	text-decoration: none;
+
+}
+.item button a:hover{
+	background-color: #000;
+	color: #fff;
+	opacity: 2;
+}
+
+.logo img{
+	
+	height: 60px;
+}	
+
+.about p{
+
+	margin: auto;
+	display: block;
+	width: 95%;
+
+}
+
+.about h2{
+	margin-left: 40px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.banner{
+	width: 100%;
+	margin: auto;
+	
+
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 110px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+
+
+	width: 100%;
+	
+}
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+.hot .logo{
+	width: 98%;
+	margin: auto;
+
+}
+.logo img{
+
+	width: 38%;
+	height: 30px;
+	margin: auto;
+}
+
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+
+button{
+	width: 98%;
+	margin: auto;
+}
+.showcase{
+	margin-left: 0px;
+
+}
+
+}

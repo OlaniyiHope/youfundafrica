@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p{
+	font-family: 'Roboto', sans-serif;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p{
+	font-family: 'Roboto', sans-serif;
+}
+span, li, li a, a{
+	font-family: 'Roboto', sans-serif;
+}
+h1, h2{
+	font-weight: 300;
+}
+
+header{
+	background-color: #008000;
+	width: 100%;
+	position: relative;
+	height: 40px;
+}
+header h3{
+	padding-left: 100px;
+	color: white;
+	font-size: 14px;
+	font-weight: none;
+	padding-top: 10px;
+}
+
+
+
+
+ nav .nav-menu ul li{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 8px;
+	margin-right: 5px;
+}
+
+ nav .nav-menu ul li a:hover{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+
+}
+.txt{
+	width: 200px;
+	padding: 10px;
+}
+.txt1{
+	width: 60%;
+	padding: 25px;
+}
+.col ul{
+	list-style: none;
+}
+.col ul li a{
+	height: 320px;
+	width: 60%;
+	background-color: #818181;
+	list-style: none;text-decoration: none;
+	color: #000;
+	font-size: 16px;
+	padding: 20px;
+}
+.jj{
+	width: 90%;
+	height: 60px;
+}
+.content{
+	margin-left: 300px;
+	
+
+}
+main{
+	background-color: #f8f8ff;
+	padding-top: 50px;
+	padding-bottom: 199px;
+}
+button{
+	background-color: #008000;
+	padding: 5px;
+	color: white;
+	
+}
+.search-box input{
+	padding: 5px;
+	border: 1px solid #000;
+	border-radius: 40px 40px 40px 40px;
+}

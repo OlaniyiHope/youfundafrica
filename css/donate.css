@@ -1,0 +1,62 @@
+
+#form{
+	background-color: #f0f8ff;
+	width: 60%;
+	position: relative;
+	height: 500px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+
+	margin: auto;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+form{
+	display: flex;
+	width: 80%;
+}
+form .form-row{
+	flex-basis: 50%;
+	margin-left: 70px;
+}
+form .form-row2{
+	flex-basis: 40%;
+	margin-left: 50px;
+
+}
+form .form-col input{
+	height: 35px;
+	padding: 6px;
+	width: 90%;
+	background-color: #fff;
+	color: black;
+	margin-bottom: 5px;
+	
+}
+
+.appoint button{
+	padding: 15px;
+	background-color: #008000;
+	color: #fff;
+	margin-top: 30px;
+
+	border: none;
+	border-radius: 6px 6px 6px 6px;
+}
+.appoint img{
+	width: 40%;
+	height: 70px;
+	padding-left: 220px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.appoint h3{
+	text-align: center;
+	opacity: 0.4;
+	font-family: arial;
+	width: 60%;
+	margin: auto;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}

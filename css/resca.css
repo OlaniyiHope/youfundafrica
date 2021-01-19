@@ -1,0 +1,283 @@
+
+@media screen and (max-width: 1200px){
+
+}
+@media screen and (max-width: 992px){
+	
+}
+@media screen and (max-width: 768px){
+	
+	}
+
+@media screen and (max-width: 600px){
+	.logo img{
+	
+	height: 60px;
+}	
+.col button{
+	margin-left: 0px;
+	margin-top: 20px;
+}
+.form-row input{
+width: 100%;
+}
+.banner{
+	width: 100%;
+	margin: auto;
+}
+.form{
+		padding-left: 0px;
+	}
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 180px;
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 130px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+	width: 100%;
+}
+
+.hot .logo{
+	width: 98%;
+	margin: auto;
+
+}
+.logo img{
+padding-left: 70px;
+	width: 60%;
+	height: 50px;
+	margin: auto;
+}
+.form{
+		padding-left: 0px;
+	}
+	.de{
+		width: 10%;
+	}
+	.go{
+		margin-left: 0px;
+	}
+	.me{
+		width: 100%;
+	}
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+}
+@media screen and (max-width: 480px){
+		.logo img{
+	
+	height: 60px;
+}	
+
+
+.form{
+		padding-left: 0px;
+	}
+	.de{
+		width: 10%;
+	}
+	.go{
+		margin-left: 0px;
+	}
+	.me{
+		width: 100%;
+	}
+.banner{
+	width: 100%;
+	margin: auto;
+	
+
+}
+
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 180px;
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 130px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+
+
+	width: 100%;
+	
+}
+
+.hot .logo{
+	width: 98%;
+	margin: auto;
+
+}
+.logo img{
+	padding-left: 50px;
+	width: 50%;
+	height: 30px;
+	margin: auto;
+}
+.col button{
+	margin-left: 0px;
+	margin-top: 20px;
+}
+.form-row input h4 h5 p{
+width: 100%;
+}
+.gu{
+	width: 100%;
+}
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+.form{
+		padding-left: 0px;
+	}
+}
+@media screen and (max-width: 320px){
+	.form{
+		padding-left: 0px;
+	}
+	.de{
+		width: 10%;
+	}
+	.go{
+		margin-left: 0px;
+	}
+	.me{
+		width: 100%;
+	}
+	.logo img{
+	width: 50px;
+	height: 50px;
+}
+.gu{
+	width: 100%;
+}	
+.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	margin-left: 50px;
+}
+.aa button{
+	width: 100%;
+}
+.bb{
+	margin: auto;
+}
+
+.banner{
+	width: 100%;
+	margin: auto;
+	
+
+}
+
+.bind .aa{
+	margin-top: 20px;
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 180px;
+}
+
+.icon{
+margin: auto;
+width: 98%;
+top: 20px;
+left: 25px;
+font-size: 20px;
+
+}
+
+.icon h3{
+	margin: auto;
+	   width: 98%;
+	   font-size: 15px;
+	   top: 130px;
+	   font-weight: 1200;
+}
+.hot{
+	top: 60px;
+	margin: auto;
+
+
+	width: 100%;
+	
+}
+
+
+.hot .logo{
+	width: 98%;
+	margin: auto;
+
+}
+.logo img{
+padding-left: 40px;
+	width: 50%;
+	height: 30px;
+	margin: auto;
+}
+
+.hot h4{
+
+width: 86%;
+margin: auto;
+text-align: center;
+font-size: 13px;
+}
+.col button{
+	margin-left: 0px;
+	margin-top: 20px;
+}
+.form-row input{
+width: 100%;
+}
+.red{
+	display: none;
+}
+}

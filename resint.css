@@ -1,0 +1,141 @@
+	
+@media screen and (max-width: 600px){
+		.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	margin-left: 0px;
+}
+.aa button{
+	width: 100%;
+	margin-left: 0px;
+}
+.bind .aa{
+	margin-top: 20px;
+}
+.hot{
+	margin-left: 0px;
+}
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+.icon h3{
+	font-size: 15px;
+	top: 150px;
+	width: 100%;
+	font-weight: 800;
+}
+.bb{
+	margin: auto;
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 220px;
+}
+.hot{
+	top: 60px;
+}
+.icon{
+	top: 10px;
+}
+.aa{
+	
+}
+@media screen and (max-width: 480px){
+	.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	
+}
+.aa button{
+	width: 100%;
+	margin-left: 70px;
+}
+.bind .aa{
+	margin-top: 20px;
+}
+.hot{
+	margin-left: 0px;
+}
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+.icon h3{
+	font-size: 15px;
+	top: 150px;
+	width: 100%;
+	font-weight: 800;
+}
+.bb{
+	margin: auto;
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 220px;
+}
+.hot{
+	top: 60px;
+}
+.icon{
+	top: 10px;
+}
+.aa{
+	margin: auto;
+}
+}
+
+
+@media screen and (max-width: 320px){
+
+
+		.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	margin-left: 0px;
+}
+.aa button{
+	width: 100%;
+	
+}
+.bind .aa{
+	margin-top: 20px;
+}
+.hot{
+	margin-left: 0px;
+}
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+.icon h3{
+	font-size: 15px;
+	top: 150px;
+	width: 100%;
+	font-weight: 800;
+}
+.bb{
+	margin: auto;
+}
+.banner{
+	width: 100%;
+}
+.banner img{
+	width: 98%;
+	margin: auto;
+	height: 220px;
+}
+.hot{
+	top: 60px;
+}
+.icon{
+	top: 10px;
+}
+.aa{
+	
+}

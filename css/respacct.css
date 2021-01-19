@@ -1,0 +1,152 @@
+
+@media screen and (max-width: 1200px){
+
+}
+@media screen and (max-width: 992px){
+	
+}
+@media screen and (max-width: 768px){
+	
+	}
+
+@media screen and (max-width: 600px){
+	
+.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+}
+
+
+
+.bind .aa{
+	margin-top: 20px;
+}
+
+
+
+
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+
+
+.aa button{
+	width: 100%;
+}
+.aa button{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+}
+@media screen and (max-width: 550px){
+	
+.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+}
+
+.bind .aa{
+	margin-top: 20px;
+}
+
+
+
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+
+.aa button{
+	width: 100%;
+}
+.aa button{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.bind .aa{
+	margin-top: 60px;
+	
+
+}
+}
+@media screen and (max-width: 500px){
+
+.form-row {
+	margin-left: 0px;
+	margin: auto;
+}
+.bind .aa{
+	flex-basis: 60%;
+}
+
+.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+
+}
+.aa button{
+	width: 100%;
+	margin-left: 50px;
+}
+
+
+.bind .aa{
+	margin-top: 20px;
+}
+
+
+
+
+.col p{
+	width: 75%; 
+	text-align: center;
+}
+
+.bb{
+	margin: auto;
+}
+
+.bind .aa{
+	margin-top: 60px;
+	
+
+}
+}
+@media screen and (max-width: 320px){
+	
+.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	
+}
+.aa button{
+	width: 100%;
+}
+
+
+
+.bind .aa{
+	margin-top: 20px;
+}
+
+
+.bind .aa{
+
+	margin-left: 0px;
+	
+}
+
+
+.bind .aa{
+	margin-top: 60px;
+	
+
+}
+}

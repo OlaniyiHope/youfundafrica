@@ -1,0 +1,145 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p{
+	font-family: Verdana,sans-serif;
+	opacity: 0.8;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, p{
+	font-family: Verdana,sans-serif;
+	opacity: 0.8;
+}
+span, li, li a, a{
+	font-family: Verdana,sans-serif;
+}
+h1, h2{
+	font-weight: 800;
+}
+header{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-bottom: 0;
+	padding:0;
+}
+header nav{
+	width: 100%;
+	background-color: #fff;
+	padding: 2px 0;
+}
+header nav ul{
+	list-style: none;
+}
+header nav ul li{
+	text-align: right;
+	font-size: 16px;
+	font-weight: 600;
+	margin-right: 10px;
+}
+header nav ul li a{
+	color: #fff;
+
+	text-decoration: none;
+}
+.adm-nav ul li{
+	display: inline-block;
+}
+
+.dashboard{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: rgba(0,0,0,0.08);
+	position: relative;
+	margin: 0;
+	padding-top: 0;
+}
+.dashboard .side-menu{
+	flex-basis: 15%;
+	background-color: #0B001C;
+	height: 100%;
+	position: fixed;
+
+}
+
+.dashboard .side-menu .link .collapsible h3{
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+	text-transform: capitalize;
+}
+.dashboard .side-menu .link .content ol li a{
+	
+	padding:0;
+	margin: :0;
+
+}
+.dashboard .side-menu .link .content{
+	padding:0;
+	margin-top :0;
+}
+
+.dashboard .film{
+	flex-basis: 80%;
+	padding-left: 18%;
+
+}
+.dashboard .film .form{
+	margin: 70px 20px;
+}
+.dashboard .film .form col{
+	margin-bottom: 15px;
+}
+.txt{
+	width: 200px;
+	padding: 10px
+}
+.txt1{
+	width: 70%;
+	padding: 10px
+}
+.txt2{
+	height: 320px;
+	width: 70%;
+}
+
+	main .reg{
+		margin-bottom: 80px;
+	}
+
+
+main h3{
+	font-size: 20px;
+	font-weight: 600;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	
+	padding: 15px;
+}
+
+ol li a{
+	color: #fff;
+	text-decoration: none;
+	line-height: 2;
+}
+ol li a:hover{
+	opacity: 10;
+}
+.film ul li{
+	display: inline-block;
+}
+.film ul li a{
+
+}
+.film ul li a{
+	color: black;
+	text-decoration: none;
+	color: #fff;
+	font-weight: 700;
+	background-color: #0000ee;
+	padding: 8px;
+}

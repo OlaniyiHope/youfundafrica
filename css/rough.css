@@ -1,0 +1,161 @@
+.banner{
+	width: 98%;
+	margin: auto;
+	margin-top: 0;
+
+}
+.banner img{
+	width: 98%;
+	
+	height: 100px;
+	object-fit: fill;
+	border: 10px solid #008000;
+}
+
+.icon{
+	position: absolute;
+	 display: inline-block;
+	  top: 30px;
+	   left: 50px;
+	   font-size: 30px; 
+	   color: white;
+}
+.icon i:hover{
+	color: #000;
+	opacity: 2;
+
+}
+
+.icon h3{
+	position: absolute; 
+	display: inline-block;
+	 top: 40px;
+	  font-size: 24px;
+	   color: #ffff00;
+	   min-width: 400px;
+	   margin-left: 40px;
+	   width: 100%;
+}
+.hot{
+	margin-left: 400px;
+	position: absolute;
+	height: 200px;
+	
+}
+.hot .logo{
+	width: 50%;
+	margin: auto;
+
+}
+.hot .logo h1 a {
+	font-size: 36px;
+	font-weight: 1000;
+	margin-bottom: 0;
+	color: #fff;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	text-decoration: none;
+	background-color: #008000;
+	border-radius: 10px 10px 10px 10px;
+}
+.hot h4{
+	color: #ffff00;
+	margin-top: 0;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800px;
+}
+
+button{
+	background-color: #000;
+	color: #fff;
+	font-size: 14px;
+	padding: 8px;
+	margin-top: 10px;
+	width: 50%;
+	border-radius: 10px 0px 10px 10px;
+	border: none;
+}
+.bind{
+	width: 90%;
+	display: flex;
+	height: auto;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	margin-left: 35px;
+	flex-wrap: wrap;
+	margin-top: 20px;
+	border: 30px solid #000;
+	margin-left: 60px;
+	border-bottom: none;
+	border-right: none;
+	padding-top: 0;
+}
+
+.bind .aa{
+	flex-basis: 20%;
+
+	flex-wrap: wrap;
+	background-color: #000;
+	margin-right: 70px;
+}
+.bind .bb{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.bind .cc{
+	flex-basis: 30%;
+	flex-wrap: wrap;
+
+}
+.aa button{
+	margin-left: 40px;
+	margin-top: 10px;
+	border-radius: 7px 7px 7px 7px;
+}
+.aa button a{
+	background-color: #000;
+	color: #fff;
+	font-size: 17px;
+	padding: 8px;
+	margin-top: 10px;
+	width: 50%;
+	border-radius: 10px 10px 10px 10px;
+	border: none;
+	text-decoration: none;
+}
+
+.col p{
+	background-color: #008000;
+	margin-bottom: 0px;
+	color: white;
+	font-size: 20px;
+	border-radius: 3px 3px 3px 3px;
+	margin-bottom: 3px;
+}
+
+.col input{
+	padding: 10px;
+	min-width: 300px;
+	border: 1.2px solid #008000;
+}
+.col h6{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+}
+.rin{
+	width: 25%; 
+	border-radius: 20px 20px 20px 20px; 
+	height: 90px;
+	 background-color: #008000;
+	  color: #fff;
+	   padding: 40px;
+	    text-align: center;
+	    margin-bottom: 20px;
+	    margin-top: 20px;
+}

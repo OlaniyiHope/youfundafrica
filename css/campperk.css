@@ -1,0 +1,123 @@
+
+
+.dashboard{
+	width: 98%;
+	margin: auto;
+	display: flex;
+	margin-left: 50px;
+	justify-content: space-between;
+	background-color: rgba(0,0,0,0.08);
+
+	margin: 0;
+	padding-top: 0;
+}
+.dashboard .side-menu{
+	flex-basis: 20%;
+	background-color: #fff;
+	height: 800px;
+	border: 2px solid #000;
+
+}
+
+.dashboard .side-menu .link .collapsible h3{
+	color: #000;
+	font-weight: 600;
+	font-size: 18px;
+	text-transform: capitalize;
+}
+.dashboard .side-menu .link .content ol li a{
+	color: #fff;
+	padding:0;
+	margin: :0;
+
+}
+.dashboard .side-menu .link .content ol li a:hover{
+	color: #008000;
+	padding:0;
+	margin: :0;
+
+}
+.dashboard .side-menu .link .content{
+	padding:0;
+	margin-top :0;
+}
+
+.dashboard .film{
+	flex-basis: 80%;
+	flex-wrap: wrap;
+
+}
+form{
+	margin-top: 50px;
+}
+ form .form col{
+	margin-bottom: 15px;
+
+}
+.txt{
+	width: 200px;
+	padding: 10px
+}
+.txt1{
+	width: 70%;
+	padding: 10px
+}
+.txt2{
+	height: 320px;
+	width: 70%;
+}
+
+	main .reg{
+		margin-bottom: 80px;
+	}
+
+
+main h3{
+	font-size: 20px;
+	font-weight: 600;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	
+	padding: 15px;
+}
+
+ol li a{
+	color: #fff;
+	text-decoration: none;
+	line-height: 2;
+}
+ol li a:hover{
+	opacity: 10;
+}
+.film ul li{
+	display: inline-block;
+}
+.film ul li a{
+
+}
+.film ul li a{
+	color: black;
+	text-decoration: none;
+	color: #fff;
+	font-weight: 700;
+	background-color: #008000;
+	padding: 8px;
+}
+.don ul li a{
+	font-size: 12px;
+}
+.film{
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+.wen{
+	margin-top: 30px;
+	
+}
+.wen button{
+	margin-left: 0px;
+	left: 0;
+	color: white;
+}

@@ -1,0 +1,68 @@
+
+.banner{
+	width: 98%;
+	margin: auto;
+	margin-top: 0;
+
+}
+.banner img{
+	width: 98%;
+	
+	height: 150px;
+	object-fit: fill;
+	border: 10px solid #008000;
+}
+.banner h3{
+	font-size: 22px;
+}
+.icon{
+	position: absolute;
+	 display: inline-block;
+	  top: 30px;
+	   left: 50px;
+	   font-size: 20px; 
+	   color: white;
+}
+.icon i:hover{
+	color: #000;
+	opacity: 2;
+
+}
+.col p{
+	width: 55%; 
+	text-align: center;
+}
+.icon h3{
+	position: absolute; 
+	display: inline-block;
+	 top: 60px;
+	  font-size: 16px;
+	   color: #ffff00;
+	
+	   margin-left: 40px;
+	   width: 100%;
+}
+.hot{
+	margin-left: 400px;
+	position: absolute;
+	height: 200px;
+	
+}
+.hot .logo{
+	width: 80%;
+	margin: auto;
+
+}
+.logo img{
+	margin-top: 20px;
+	width: 50%;
+	height: 50px;
+}
+
+.hot h4{
+	color: #ffff00;
+	margin-top: 0;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 1400;
+}

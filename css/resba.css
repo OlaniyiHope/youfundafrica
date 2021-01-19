@@ -1,0 +1,93 @@
+	
+@media screen and (max-width: 600px){
+		.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	margin-left: 0px;
+}
+.aa button{
+	width: 100%;
+	margin-left: 0px;
+}
+.bind .aa{
+	margin-top: 20px;
+}
+
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+
+.bb{
+	margin: auto;
+}
+.bind .aa{
+	margin-top: 60px;
+}
+
+}
+@media screen and (max-width: 480px){
+	.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	
+}
+.bind .aa{
+	flex-basis: 60%;
+}
+.aa button{
+	width: 100%;
+	margin-left: 30px;
+}
+.bind .aa{
+	margin-top: 20px;
+}
+
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+
+.bb{
+	margin: auto;
+}
+
+.aa{
+	margin: auto;
+}
+.bind .aa{
+	margin-top: 60px;
+}
+}
+
+
+@media screen and (max-width: 320px){
+		.aa{
+	margin-bottom: 10px;
+	margin-top: 0px;
+	width: 100%;
+	margin-left: 0px;
+}
+.aa button{
+	width: 100%;
+	
+}
+.bind .aa{
+	margin-top: 20px;
+}
+
+.content h4{
+	font-size: 15px;
+	width: 95%;
+}
+
+.bb{
+	margin: auto;
+}
+
+.bind .aa{
+	margin-top: 60px;
+}
+}

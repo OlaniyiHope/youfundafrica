@@ -1,0 +1,163 @@
+<style>
+ 
+        
+.col p{
+    
+    text-align: center;
+}
+
+button{
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px;
+    margin-top: 10px;
+    width: 50%;
+    border-radius: 10px 0px 10px 10px;
+    border: none;
+}
+.bind{
+    width: 100%;
+    display: flex;
+    height: auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    margin-left: 15px;
+    flex-wrap: wrap;
+    
+    
+    margin: 0;
+    padding-top: 0;
+}
+.bind .aa{
+    flex-basis: 30%;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.mind{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.bind .bb{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    flex-basis: 30%;
+    flex-wrap: wrap;
+
+}
+.bind .cc{
+    flex-basis: 30%;
+    flex-wrap: wrap;
+
+}
+.aa button{
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 7px 7px 7px 7px;
+}
+.aa button a{
+    background-color: #000;
+    color: #fff;
+    font-size: 17px;
+    padding: 8px;
+    margin-top: 10px;
+    width: 50%;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+    text-decoration: none;
+}
+
+.col p{
+    background-color: #008000;
+    margin-bottom: 0px;
+    color: yellow;
+    font-size: 20px;
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 3px;
+}
+
+.col input{
+    padding: 10px;
+  
+  border: 2px solid #008000;
+  border-radius: 4px;
+}
+.col select{
+    padding: 10px;
+   
+      border: 2px solid #008000;
+  border-radius: 4px;
+}
+.col textarea{
+    height: 80px;
+    
+  border: 2px solid #008000;
+  border-radius: 4px;
+}
+.col h6{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+.rin{
+    width: 25%; 
+    border-radius: 20px 20px 20px 20px; 
+    height: 90px;
+     background-color: #008000;
+      color: #fff;
+       padding: 40px;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 20px;
+}
+.ji p{
+     width: 25%; 
+     text-align: center;
+}
+.jo p{
+    width: 20%;
+     text-align: center;
+}
+.jd p{
+    width: 25%;
+     text-align: center;
+}
+.jk p{
+width: 50%; 
+text-align: center;
+}
+.jf p{
+width: 25%; 
+text-align: center;
+}
+.col  input{
+    min-width: 003px;
+}
+.jf input{
+    padding: 30px;
+     border-radius: 20px 20px 20px 20px;
+}
+.ju p{
+    width: 55%; 
+    text-align: center;
+}
+ .ccc textarea{
+    min-width: 300px;
+}
+.ju input{
+    height: 1px;
+}
+.jw p{
+    width: 50%;
+     text-align: center;
+}
+.col p{
+    min-width: 300px;
+}
+.jw input{
+     height: 1px;
+}
+    </style>
