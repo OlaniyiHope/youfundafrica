@@ -4,28 +4,6 @@
 It's a Crowdfunding Web App built with Bootstrap and PHP , where users can upload their campaign and what they need funding for 
 and can see the progress of the contributors to the campaign and where people can pay for anyone campaign.
 
-
-
-
-
-## Badges
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables
-
-First in your server .env file
-
-`MONGO_PASSWORD`
-`SALT_ROUNDS`
-`JWT_SECRET`
-`CLOUD_NAME`
-`API_KEY`
-`API_SECRET`
-
-Then in your client .env.local file
-
-`REACT_APP_BASE_URL`
 ## Deployment
 
 The web App is deployed on the domain on the following link
